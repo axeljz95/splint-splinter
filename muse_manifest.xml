@@ -1,0 +1,118 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="splint-splinter.com" resolutions="1x" timestamp="1477851550548">
+  <folder name="css">
+    <file name="site_global.css" crc="529676188"/>
+    <file name="master_a-master.css" crc="168289503" ref="tips:puchale:contacos-2:termica:ayudame:index:biomasa:fotovoltaica:noticias:contactos:eolica"/>
+    <file name="tips.css" crc="3839732431" ref="tips"/>
+    <file name="puchale.css" crc="4050190099" ref="puchale"/>
+    <file name="contacos-2.css" crc="4046607019" ref="contacos-2"/>
+    <file name="termica.css" crc="3923852643" ref="termica"/>
+    <file name="ayudame.css" crc="10585192" ref="ayudame"/>
+    <file name="index.css" crc="3977661943" ref="index"/>
+    <file name="biomasa.css" crc="3818443831" ref="biomasa"/>
+    <file name="fotovoltaica.css" crc="34721164" ref="fotovoltaica"/>
+    <file name="noticias.css" crc="146714048" ref="noticias"/>
+    <file name="contactos.css" crc="381908496" ref="contactos"/>
+    <file name="eolica.css" crc="4282644081" ref="eolica"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:fotovoltaica:eolica:termica:biomasa:contactos:contacos-2:tips:noticias:puchale:ayudame"/>
+    <file name="museutils.js" crc="3851988764" ref="index:fotovoltaica:eolica:termica:biomasa:contactos:contacos-2:tips:noticias:puchale:ayudame"/>
+    <file name="whatinput.js" crc="86476730" ref="index:fotovoltaica:eolica:termica:biomasa:contactos:contacos-2:tips:noticias:puchale:ayudame"/>
+    <file name="museconfig.js" crc="169177150" ref="index:fotovoltaica:eolica:termica:biomasa:contactos:contacos-2:tips:noticias:puchale:ayudame"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index:fotovoltaica:eolica:termica:biomasa:contactos:contacos-2:tips:noticias:puchale:ayudame"/>
+    <file name="pie.js" crc="3831537696" ref="index:fotovoltaica:eolica:termica:biomasa:contactos:contacos-2:tips:ayudame"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="index:fotovoltaica:eolica:termica:biomasa:contactos:contacos-2:tips:noticias:puchale:ayudame"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:fotovoltaica:eolica:termica:biomasa:contactos:contacos-2:tips:noticias:puchale:ayudame"/>
+    <file name="webpro.js" crc="4067903014" ref="index:contactos:tips"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index:contactos:tips"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index:contactos:tips"/>
+    <file name="touchswipe.js" crc="474750357" ref="index:contactos:tips"/>
+    <file name="form_check.php" crc="121412709" ref="index"/>
+    <file name="form_throttle.php" crc="4268640971" ref="index"/>
+    <file name="form_process.php" crc="444429785" ref="index"/>
+    <file name="form-u17037.php" crc="338628350" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:fotovoltaica:eolica:termica:biomasa:contactos:contacos-2:tips:noticias:puchale:ayudame"/>
+    <file name="require.js" crc="4108833657" ref="index:fotovoltaica:eolica:termica:biomasa:contactos:contacos-2:tips:noticias:puchale:ayudame"/>
+    <file name="jquery.scrolleffects.js" crc="511146689" ref="contactos"/>
+  </folder>
+  <folder name="images">
+    <file name="logoupgto.jpg" crc="4115027548" ref="index:fotovoltaica:eolica:termica:biomasa:contactos:contacos-2:tips:noticias:puchale:ayudame"/>
+    <file name="segob-u21325-fr.jpg" crc="4206851395" ref="index:fotovoltaica:eolica:termica:biomasa:contactos:contacos-2:tips:noticias:puchale:ayudame"/>
+    <file name="blank.gif" crc="4208392903" ref="index:tips"/>
+    <file name="cerro cub.jpg" crc="197052653" ref="index"/>
+    <file name="11-u1850-fr.png" crc="351472233" ref="index"/>
+    <file name="u6071-grad.png" crc="4169809158" ref="index"/>
+    <file name="foto1.jpg" crc="473687529" ref="index"/>
+    <file name="vac180180.jpg" crc="4158794722" ref="index"/>
+    <file name="colect.jpg" crc="342475095" ref="index"/>
+    <file name="eo12.jpg" crc="3896829812" ref="index"/>
+    <file name="pexels-photo-29781-large.jpg" crc="12368789" ref="index"/>
+    <file name="pexels-photo-large.jpg" crc="4124133708" ref="index"/>
+    <file name="979d963c.jpg" crc="4191359279" ref="index"/>
+    <file name="landscape-nature-clouds-cloudy.jpg" crc="3872063557" ref="index"/>
+    <file name="2016-10-30.jpg" crc="271674048" ref="index"/>
+    <file name="aeroo-crop-u11241.jpg" crc="4003768705" ref="index"/>
+    <file name="biogas-crop-u11308.jpg" crc="474565544" ref="index"/>
+    <file name="calen.jpg" crc="121714446" seo="true" ref="index:tips"/>
+    <file name="carosol.jpg" crc="379124867" seo="true" ref="index:tips"/>
+    <file name="celda solar-crop-u11368.jpg" crc="4176914194" ref="index"/>
+    <file name="lampsolar.jpg" crc="182855338" seo="true" ref="index:tips"/>
+    <file name="loading.gif" crc="3815509949" ref="index:tips"/>
+    <file name="name.jpg" crc="68464640" ref="index"/>
+    <file name="nail.jpg" crc="4181910775" ref="index"/>
+    <file name="u17056-17.png" crc="3957392877" ref="index"/>
+    <file name="u17056-17-r.png" crc="246833825" ref="index"/>
+    <file name="u17056-17-m.png" crc="246833825" ref="index"/>
+    <file name="u17056-17-fs.png" crc="501343220" ref="index"/>
+    <file name="phone.jpg" crc="276128751" ref="index"/>
+    <file name="panel.jpg" crc="4116826921" ref="fotovoltaica"/>
+    <file name="aerooooo.jpg" crc="24079412" ref="eolica"/>
+    <file name="coleeee.jpg" crc="237596072" ref="termica"/>
+    <file name="bioooo.png" crc="3957430168" ref="biomasa"/>
+    <file name="img02.jpg" crc="4127260240" ref="contactos"/>
+    <file name="man-ieu13152-a-fr.png" crc="4092834370" ref="contactos"/>
+    <file name="man.jpg" crc="4015560965" ref="contactos"/>
+    <file name="eleoy jr-ieu13150-a-fr.png" crc="4229473662" ref="contactos"/>
+    <file name="eleoy jr.jpg" crc="4044868232" ref="contactos"/>
+    <file name="eloy 3ro-ieu13147-a-fr.png" crc="4043605586" ref="contactos"/>
+    <file name="eloy 3ro.jpg" crc="351191218" ref="contactos"/>
+    <file name="eloy 6-u13148-a-fr.jpg" crc="179987078" ref="contactos"/>
+    <file name="doña-u13146-a-fr.jpg" crc="208208344" ref="contactos"/>
+    <file name="corner.png" crc="3783448770" seo="true" ref="contactos"/>
+    <file name="conec.png" crc="473451370" ref="contacos-2"/>
+    <file name="icon3.png" crc="3961184872" seo="true" ref="contacos-2"/>
+    <file name="desmex.jpg" crc="403837650" seo="true" ref="contacos-2"/>
+    <file name="contacsolar.jpg" crc="3977150533" seo="true" ref="contacos-2"/>
+    <file name="renovbles.jpg" crc="278319138" seo="true" ref="contacos-2"/>
+    <file name="natural.jpg" crc="275546833" ref="contacos-2"/>
+    <file name="badeza.jpg" crc="4067069000" seo="true" ref="contacos-2"/>
+    <file name="cfe.jpg" crc="4379122" seo="true" ref="tips"/>
+    <file name="segob.jpg" crc="4211216228" seo="true" ref="tips"/>
+    <file name="cfe304x206.jpg" crc="37093045" seo="true" ref="tips"/>
+    <file name="segob-crop-u17763.jpg" crc="3895249546" ref="tips"/>
+    <file name="celda solar480x360.jpg" crc="446411727" seo="true" ref="tips"/>
+    <file name="aeroo.jpg" crc="40506402" seo="true" ref="tips"/>
+    <file name="biogas.jpg" crc="3968137556" seo="true" ref="tips"/>
+    <file name="celda solar-crop-u10082.jpg" crc="466764961" ref="tips"/>
+    <file name="aeroo-crop-u10163.jpg" crc="164418336" ref="tips"/>
+    <file name="biogas304x202.jpg" crc="362923122" seo="true" ref="tips"/>
+    <file name="carosol-crop-u10217.jpg" crc="3954618774" ref="tips"/>
+    <file name="lampsolar-crop-u10244.jpg" crc="40146865" ref="tips"/>
+    <file name="contaminacion_leon_0.jpg" crc="20509265" ref="noticias"/>
+    <file name="focow.jpg" crc="52726818" ref="noticias"/>
+    <file name="marquezzmaqrues.jpg" crc="424462826" ref="noticias"/>
+    <file name="muchas.jpg" crc="381278752" ref="puchale"/>
+    <file name="palanasa.jpg" crc="375836295" seo="true" ref="ayudame"/>
+  </folder>
+  <file name="index.html" crc="3927980047" seo="true" mt="1477851471112" redirect="true"/>
+  <file name="fotovoltaica.html" crc="3763100679" seo="true" mt="1477847616078" redirect="true"/>
+  <file name="eolica.html" crc="180074410" seo="true" mt="1477847632799" redirect="true"/>
+  <file name="termica.html" crc="4106977640" seo="true" mt="1477847677985" redirect="true"/>
+  <file name="biomasa.html" crc="3962692570" seo="true" mt="1477847658426" redirect="true"/>
+  <file name="contactos.html" crc="4067940479" seo="true" mt="1477838847751" redirect="true"/>
+  <file name="contacos-2.html" crc="4168625975" seo="true" mt="1477846728043" redirect="true"/>
+  <file name="tips.html" crc="3936542819" seo="true" mt="1477846157810" redirect="true"/>
+  <file name="noticias.html" crc="3948635815" seo="true" mt="1477848742598" redirect="true"/>
+  <file name="puchale.html" crc="3971260487" seo="true" mt="1477846640574" redirect="true"/>
+  <file name="ayudame.html" crc="205702099" seo="true" mt="1477848093166" redirect="true"/>
+</manifest>
